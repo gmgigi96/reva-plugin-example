@@ -2,7 +2,7 @@ module github.com/gmgigi96/reva-plugin-example
 
 go 1.20
 
-require github.com/cs3org/reva v1.24.0
+require github.com/cs3org/reva v1.24.1-0.20230720105710-7c8eb90505b4
 
 require (
 	github.com/go-playground/locales v0.14.1 // indirect
@@ -17,5 +17,3 @@ require (
 	golang.org/x/sys v0.7.0 // indirect
 	golang.org/x/text v0.9.0 // indirect
 )
-
-replace github.com/cs3org/reva => /home/gianmaria/Documenti/CERN/reva2
