@@ -1,0 +1,13 @@
+{
+    "author": "Gianmaria Del Monte",
+    "licence": "Apache-2.0",
+    "module": "github.com/gmgigi96/reva-plugin-example",
+    "homepage": "https://github.com/gmgigi96/reva-plugin-example",
+    "doc": "https://github.com/gmgigi96/reva-plugin-example",
+    "plugins": [
+        {
+            "id": "http.services.helloplugin",
+            "description": "A demo plugin for reva"
+        }
+    ]
+}
